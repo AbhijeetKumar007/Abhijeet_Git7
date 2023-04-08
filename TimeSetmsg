@@ -1,0 +1,11 @@
+#install pywhatkit first using pip
+
+import pywhatkit as kit
+
+number = "+"
+
+kit.sendwhatmsg(
+
+    number,
+     '', 18, 45
+)
